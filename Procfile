@@ -1,2 +1,2 @@
-web:index.html 
-app:app.py
+app:app.py web:index.html 
+
