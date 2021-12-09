@@ -1,7 +1,5 @@
 beautifulsoup4==4.10.0
 
-chrome-gnome-shell==0.0.0
-
 cupshelpers==1.0
 cycler==0.11.0
 Cython==0.29.24
