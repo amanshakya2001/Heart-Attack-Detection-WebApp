@@ -25,7 +25,6 @@ pandas-profiling==3.1.0
 plotly==4.14.3
 
 scikit-learn==1.0.1
-scipy==1.7.1
 seaborn==0.11.2
 
 sklearn==0.0
